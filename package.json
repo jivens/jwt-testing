@@ -1,0 +1,23 @@
+{
+  "name": "jwt-testing",
+  "version": "1.0.0",
+  "description": "Testing JSON Web Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jivens/jwt-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jivens/jwt-testing/issues"
+  },
+  "homepage": "https://github.com/jivens/jwt-testing#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
